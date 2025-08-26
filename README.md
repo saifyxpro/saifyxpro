@@ -3,13 +3,6 @@
 <!-- Professional Cover Banner -->
 <img width="100%" src="./assets/banner.png" alt="Saifullah Channa - Professional Banner"/>
 
-<!-- Interactive Profile Card -->
-<div style="position: relative; margin: -50px 0 20px 0;">
-  <img width="120" height="120" src="https://github.com/saifyxpro.png" alt="Saifullah Channa" style="border-radius: 50%; border: 4px solid #00D4AA; box-shadow: 0 0 30px rgba(0, 212, 170, 0.5);"/>
-</div>
-
-
-
 ---
 
 <div align="center">
@@ -610,9 +603,3 @@ I'm always excited to discuss cutting-edge projects, share technical insights, o
 
 *🤖 AI Automation Specialist • ☁️ Cloud Architect • 🚀 Full-Stack Developer*  
 *Last updated: August 26, 2025 - Built with ❤️, code, and AI intelligence*
-
-<<<<<<< HEAD
-</div>
-=======
-</div>
->>>>>>> 36ccd2bd0660d1ac8700e1fcd8532e80120361a7
