@@ -1,8 +1,33 @@
 <div align="center">
 
-## Senior Full-Stack Developer | Cloud DevOps Engineer | n8n Expert | AI Agent Architect
+<!-- Professional Cover Banner -->
+<img width="100%" src="./assets/banner.png" alt="Saifullah Channa - Professional Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer+%7C+4%2B+Years+Experience;☁️+Cloud+DevOps+%26+Infrastructure+Expert;🤖+n8n+Automation+%26+AI+Agent+Specialist;🔥+Building+Scalable+Solutions+That+Matter)](https://git.io/typing-svg)
+<!-- Interactive Profile Card -->
+<div style="position: relative; margin: -50px 0 20px 0;">
+  <img width="120" height="120" src="https://github.com/saifyxpro.png" alt="Saifullah Channa" style="border-radius: 50%; border: 4px solid #00D4AA; box-shadow: 0 0 30px rgba(0, 212, 170, 0.5);"/>
+</div>
+
+
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=29&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer+%7C+4%2B+Years+Experience;☁️+Cloud+DevOps+%26+Infrastructure+Expert;🤖+n8n+Automation+%26+AI+Agent+Specialist;🔥+Building+Scalable+Solutions+That+Matter)](https://git.io/typing-svg)
+
+<!-- Professional Tech Stack Showcase -->
+<div style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,typescript,aws,docker,kubernetes,mongodb,postgresql,redis&theme=dark" alt="Tech Stack" />
+</div>
+
+<!-- AI & Automation Showcase -->
+<div style="margin: 15px 0;">
+  <img src="https://img.shields.io/badge/🤖_AI_Automation-Expert-FF6B35?style=for-the-badge&logoColor=white" alt="AI Expert"/>
+  <img src="https://img.shields.io/badge/☁️_Cloud_Architect-Advanced-00C851?style=for-the-badge&logoColor=white" alt="Cloud Architect"/>
+  <img src="https://img.shields.io/badge/🚀_Full_Stack-Master-007ACC?style=for-the-badge&logoColor=white" alt="Full Stack Master"/>
+  <img src="https://img.shields.io/badge/🔥_DevOps-Expert-8B5CF6?style=for-the-badge&logoColor=white" alt="DevOps Expert"/>
+</div>
 
 </div>
 
@@ -411,44 +436,21 @@ I believe that in the rapidly evolving world of technology, **continuous learnin
 
 ---
 
-## 🎯 **Professional Skills & Expertise Levels**
+## 📊 **GitHub Analytics & Performance**
 
 <div align="center">
 
-### 🔥 **Core Competencies Matrix**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifyxpro&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
 
-| **Skill Category** | **Expert Level (🔥)** | **Proficient Level (⭐)** | **Learning Focus 2025 (🚀)** |
-|-------------------|----------------------|-------------------------|---------------------------|
-| **Frontend** | React, Next.js, TypeScript | Vue.js, Angular, Svelte | Advanced React Patterns |
-| **Backend** | Node.js, Python, Express | Go, Java, C# | Microservices Architecture |
-| **Databases** | PostgreSQL, MongoDB, Redis | MySQL, Elasticsearch | Vector Databases |
-| **Cloud/DevOps** | AWS, Docker, Kubernetes | GCP, Azure, Terraform | Multi-Cloud Strategies |
-| **AI/ML** | OpenAI APIs, LangChain | Basic ML Models | Agentic AI, MLOps |
-| **Automation** | n8n Workflows | Zapier, Make | Multi-Agent Systems |
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifyxpro&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10"/>
 
----
+<img src="https://streak-stats.demolab.com?user=saifyxpro&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
-### 🏆 **Specialized Expertise Areas**
-
-<div align="center">
-
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-Expert-FF6B35?style=for-the-badge&logo=javascript&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI_Automation-Expert-00C851?style=for-the-badge&logo=robot&logoColor=white)
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Expert-007ACC?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DevOps Engineering](https://img.shields.io/badge/DevOps_Engineering-Expert-8B5CF6?style=for-the-badge&logo=docker&logoColor=white)
-
-![System Design](https://img.shields.io/badge/System_Design-Proficient-00D084?style=for-the-badge&logo=architecture&logoColor=white)
-![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-Proficient-FF9500?style=for-the-badge&logo=speed&logoColor=white)
-![Security Implementation](https://img.shields.io/badge/Security_Implementation-Proficient-DC143C?style=for-the-badge&logo=security&logoColor=white)
-
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-2025_Focus-FFD700?style=for-the-badge&logo=openai&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-2025_Focus-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifyxpro&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35" />
 
 </div>
 
-
 ---
-
 
 ### 🏆 **Flagship Projects & Achievements**
 
