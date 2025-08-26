@@ -1,6 +1,5 @@
 <div align="center">
 
-# Saifullah Channa "Saify" 🚀
 ## Senior Full-Stack Developer | Cloud DevOps Engineer | n8n Expert | AI Agent Architect
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer+%7C+4%2B+Years+Experience;☁️+Cloud+DevOps+%26+Infrastructure+Expert;🤖+n8n+Automation+%26+AI+Agent+Specialist;🔥+Building+Scalable+Solutions+That+Matter)](https://git.io/typing-svg)
