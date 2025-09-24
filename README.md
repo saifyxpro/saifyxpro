@@ -273,7 +273,6 @@ I'm always excited to discuss cutting-edge projects, share technical insights, o
 
 [![Schedule a Call](https://img.shields.io/badge/Schedule%20Call-4CAF50?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/saifyxpro)
 [![Send Message](https://img.shields.io/badge/Quick%20Message-FF6B35?style=for-the-badge&logo=telegram&logoColor=white)](mailto:hello@saify.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923223164835)
 
 ---
 
