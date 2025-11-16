@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=1000&height=100&lines=AI+Engineer+%7C+Machine+Learning+Expert;Automation+Expert+%7C+5%2B+Years+Experience;AI+%26+Automation+Specialist;Deep+Learning+%26+Intelligent+Automation;Building+Intelligent+Systems+That+Scale;Transforming+Ideas+into+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=1000&height=100&lines=AI+Engineer+%7C+Machine+Learning+Expert;Full-Stack+Developer+%7C+5%2B+Years+Experience;AI+%26+Automation+Specialist+%7C+2%2B+Years;Deep+Learning+%26+Intelligent+Automation;Building+Intelligent+Systems+That+Scale;Transforming+Ideas+into+Reality" alt="Typing Animation" />
 </div>
 
 <!-- Dynamic Skills Showcase -->
@@ -49,23 +49,28 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-**Senior AI Engineer & Automation Expert** specializing in machine learning, deep learning, and intelligent automation systems. With **5+ years of production experience**, I architect and deploy end-to-end AI/ML solutions and advanced automation workflows that transform business operations, reduce costs by 45%, and scale intelligently using cutting-edge technologies like TensorFlow, PyTorch, LangChain, and n8n.
+**AI Engineer & Automation Expert** with **5+ years of full-stack development experience** and **2+ years specializing in AI/ML and intelligent automation**. I architect and deploy end-to-end AI/ML solutions, build advanced automation workflows, and create scalable full-stack applications that transform business operations, reduce costs by 45%, and scale intelligently using cutting-edge technologies like TensorFlow, PyTorch, LangChain, n8n, React, and Node.js.
 
 ### 🎯 **Core Expertise**
 
+**Current Focus (2+ Years in AI/ML & Automation):**
 - **AI & Machine Learning Engineering**: Deep learning, neural networks, and production ML systems with TensorFlow, PyTorch, and LangChain
 - **Agentic AI & LLM Integration**: Building autonomous agents, multi-agent systems, and RAG applications
-- **MLOps & AI Infrastructure**: End-to-end ML pipelines, model deployment, monitoring, and optimization
 - **Intelligent Automation**: Expert in n8n workflows, AI-powered process automation, and business intelligence
-- **Cloud AI Solutions**: AWS SageMaker, scalable ML infrastructure, and distributed training systems
-- **Full-Stack AI Development**: Modern AI-powered applications with React, Node.js, Python, and FastAPI
+- **MLOps & AI Infrastructure**: End-to-end ML pipelines, model deployment, monitoring, and optimization
+
+**Strong Full-Stack Foundation (5+ Years):**
+- **Full-Stack Development**: Modern web applications with React, Next.js, Node.js, TypeScript, and Python
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD pipelines, and infrastructure automation
+- **Database Systems**: PostgreSQL, MongoDB, Redis, and scalable data architecture
+- **API Development**: RESTful APIs, GraphQL, microservices, and real-time applications
 
 ### 📊 **Impact Metrics**
 
-<img src="https://img.shields.io/badge/ML%20Models%20Deployed-25+-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation%20Workflows-50+-FF9800?style=for-the-badge&logo=autohotkey&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Accuracy-95%2B%25-E91E63?style=for-the-badge&logo=target&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cost%20Reduction-45%25-2196F3?style=for-the-badge&logo=trending-up&logoColor=white"/>
+<img src="https://img.shields.io/badge/Total%20Experience-5%2B%20Years-4CAF50?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML%20Experience-2%2B%20Years-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%20Models%20Deployed-15+-E91E63?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation%20Workflows-30+-2196F3?style=for-the-badge&logo=autohotkey&logoColor=white"/>
 
 ---
 
@@ -188,10 +193,10 @@
 
 | **Service Area** | **Expertise** | **Value Proposition** |
 |------------------|---------------|----------------------|
-| **🤖 Machine Learning & AI** | Deep learning, neural networks, NLP, computer vision, MLOps | Production ML models with 95%+ accuracy, scalable AI systems |
-| **⚡ Intelligent Automation** | n8n workflows, AI agents, RPA, process automation | Save 80%+ manual work, 24/7 intelligent processing |
-| **🧠 Agentic AI Systems** | LangChain, CrewAI, AutoGen, multi-agent orchestration | Autonomous AI agents that handle complex workflows |
-| **☁️ Cloud AI & MLOps** | AWS SageMaker, model deployment, ML pipelines, monitoring | Reduce ML costs 40%, improve deployment speed 10x |
+| **🤖 AI & Machine Learning** | Deep learning, neural networks, NLP, LangChain, MLOps (2+ yrs) | Production ML models with high accuracy, scalable AI systems |
+| **⚡ Intelligent Automation** | n8n workflows, AI agents, RPA, process automation (2+ yrs) | Save 80%+ manual work, 24/7 intelligent processing |
+| **💻 Full-Stack Development** | React, Next.js, Node.js, TypeScript, Python, APIs (5+ yrs) | Production-ready applications with 99.9% uptime |
+| **☁️ Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD, infrastructure automation (5+ yrs) | Reduce costs 40%, improve deployment speed 10x |
 
 </div>
 
@@ -202,10 +207,10 @@
 <div align="center">
 
 **Professional Impact**
-<img src="https://img.shields.io/badge/25%2B-ML%20Models%20in%20Production-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/50%2B-Automation%20Workflows-9C27B0?style=for-the-badge&logo=automation&logoColor=white"/>
-<img src="https://img.shields.io/badge/95%25-ML%20Model%20Accuracy-E91E63?style=for-the-badge&logo=target&logoColor=white"/>
-<img src="https://img.shields.io/badge/80%25-Process%20Automation-FF9800?style=for-the-badge&logo=autohotkey&logoColor=white"/>
+<img src="https://img.shields.io/badge/15%2B-ML%20Models%20in%20Production-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/30%2B-Automation%20Workflows-9C27B0?style=for-the-badge&logo=automation&logoColor=white"/>
+<img src="https://img.shields.io/badge/20%2B-Full--Stack%20Applications-2196F3?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/5%2B%20Years-Development%20Experience-FF9800?style=for-the-badge&logo=code&logoColor=white"/>
 
 **Technical Milestones**
 <img src="https://img.shields.io/badge/99.99%25-Uptime%20SLA-00C851?style=for-the-badge&logo=statuspage&logoColor=white"/>
@@ -262,12 +267,12 @@
 Whether you need **intelligent AI automation**, **scalable web applications**, **cloud infrastructure optimization**, or **strategic technical leadership**, I'm here to turn your innovative vision into reality.
 
 **✅ Currently Available For:**
-- **Full-time AI/ML Engineering roles** with innovative, forward-thinking companies
+- **AI/ML Engineering roles** with innovative, forward-thinking companies
+- **Full-Stack Development positions** with AI/ML integration opportunities
 - **Machine Learning & Automation consulting** for enterprise-scale projects
 - **High-impact contract projects** (6+ months preferred for meaningful impact)
-- **MLOps & AI infrastructure** design, implementation, and optimization
-- **Technical architecture** for AI-powered systems and intelligent automation
-- **Team mentoring** in ML, AI, and automation best practices
+- **AI-powered full-stack applications** combining ML with modern web technologies
+- **Technical architecture** for intelligent automation and scalable systems
 
 ### **🚀 Let's Connect & Build Something Amazing**
 
