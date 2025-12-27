@@ -1,281 +1,214 @@
 <div align="center">
 
-<!-- Professional Header Banner -->
-<img width="100%" src="./assets/header.png" alt="SAIFY - AI Software Developer & Automation Expert"/>
+<!-- Header Banner (local asset) -->
 
+<img width="100%" src="./assets/header.png" alt="SAIFY — AI Engineer | Software Developer | Automation" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=1000&height=100&lines=AI+Software+Developer+%26+Automation+Expert;Full-Stack+Developer+%7C+4%2B+Years+Experience;DevOps+Engineer+%26+Cloud+Infrastructure+Specialist;Open+Source+Contributor+%26+Creator;Building+Intelligent+Systems+That+Scale;Transforming+Ideas+into+Reality" alt="Typing Animation" />
-</div>
+<!-- Typing headline -->
 
-<!-- Dynamic Skills Showcase -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,aws,docker,kubernetes,tensorflow,mongodb,postgresql&theme=dark&perline=10" alt="Tech Stack" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=900&color=00D4AA&center=true&vCenter=true&width=1000&height=80&lines=AI+Engineer+%7C+Automation+Specialist;Full-Stack+Developer+%7C+4%2B+Years+Production;DevOps+%26+Cloud+Infrastructure;Building+Intelligent+Systems+That+Scale" alt="Typing headline" />
+
+<!-- Tech icons -->
+
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,aws,docker,kubernetes,tensorflow,mongodb,postgresql&theme=dark&perline=10" alt="Technology stack" />
 
 <br/>
 
-<!-- Animated Badges -->
+<!-- Primary capability badges -->
+
+<img src="https://img.shields.io/badge/AI%20Engineer-Expert-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" alt="AI Engineer" />
+<img src="https://img.shields.io/badge/Full%20Stack-Advanced-007ACC?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Full Stack" />
+<img src="https://img.shields.io/badge/DevOps-Expert-00C851?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" alt="DevOps" />
+<img src="https://img.shields.io/badge/Open%20Source-Creator-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Open Source" />
+
+<br/>
+
+<!-- Profile stats badges -->
+
+<img src="https://komarev.com/ghpvc/?username=saifyxpro&label=Profile%20Views&color=00D4AA&style=for-the-badge&abbreviated=true" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/saifyxpro?label=Followers&style=for-the-badge&color=FF6B35&labelColor=0D1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/saifyxpro?label=Stars&style=for-the-badge&color=007ACC&labelColor=0D1117" alt="Stars" />
+
+<br/>
+
+<!-- Social links -->
+
+<a href="https://linkedin.com/in/saifyxpro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://saify.me"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a> <a href="mailto:hello@saify.me"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/saifyxpro"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" /></a>
+
+</div>
+
+---
+
+## About
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" />
+
+I am a **Senior AI Engineer** focused on **agentic automation**, **LLM application engineering**, and **scalable system design**.
+
+I build production-grade AI systems that reduce manual operations, increase reliability, and unlock new capabilities across product and infrastructure.
+
+### What I specialize in
+
+* **AI Engineering**: LLM apps, RAG, tool-using agents, evaluation, safety, and observability
+* **Automation**: n8n workflows, event-driven orchestration, integrations, and self-healing pipelines
+* **Full-Stack**: React/Next.js, TypeScript, Node.js, FastAPI, API design, and performance
+* **Cloud & DevOps**: AWS, Kubernetes, Docker, Terraform, CI/CD, monitoring, and SRE practices
+* **Open Source**: developer tools, templates, and learning resources for AI deployment
+
+---
+
+## Impact (selected)
+
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Expert-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Advanced-007ACC?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/DevOps-Expert-00C851?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Creator-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-</div>
-
-<!-- Professional Stats Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saifyxpro&label=Profile%20Views&color=00D4AA&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saifyxpro?label=Followers&style=for-the-badge&color=FF6B35&labelColor=1a1a1a" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/saifyxpro?label=Stars&style=for-the-badge&color=007ACC&labelColor=1a1a1a" alt="Stars" />
-</div>
-
-
----
-
-<div align="center">
-
-<!-- Social Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifyxpro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://saify.me)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@saify.me)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifyxpro)
-
+  <img src="https://img.shields.io/badge/Applications%20Delivered-30%2B-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Applications delivered" />
+  <img src="https://img.shields.io/badge/Automation%20Workflows-50%2B-FF9800?style=for-the-badge&logo=autohotkey&logoColor=white" alt="Automation workflows" />
+  <img src="https://img.shields.io/badge/Cost%20Reduction-45%25-2196F3?style=for-the-badge&logo=trending-up&logoColor=white" alt="Cost reduction" />
+  <img src="https://img.shields.io/badge/Uptime%20SLA-99.99%25-9C27B0?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime SLA" />
 </div>
 
 ---
 
-## 🌟 About Me - AI Software Developer & Automation Expert
+## Technology
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### AI and ML
 
-**Senior AI Software Developer** specializing in intelligent automation and scalable system architecture. With **4+ years of production experience**, I architect and build AI-powered solutions that transform business operations through intelligent automation and cutting-edge technology.
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 
-### 🎯 **Core Expertise**
+### Automation and Integration
 
-- **AI & Machine Learning**: Building intelligent systems with TensorFlow, PyTorch, and LangChain
-- **Automation Engineering**: Expert in n8n, workflow automation, and process optimization  
-- **Full-Stack Development**: Modern web applications with React, Node.js, and TypeScript
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, and infrastructure automation
-- **Open Source**: Active contributor and creator of developer tools and AI frameworks
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+<img src="https://img.shields.io/badge/Make-6366F1?style=for-the-badge&logo=integromat&logoColor=white" alt="Make" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 
-### 📊 **Impact Metrics**
+### Full-Stack
 
-<img src="https://img.shields.io/badge/Applications%20Delivered-30+-4CAF50?style=for-the-badge&logo=rocket&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation%20Workflows-50+-FF9800?style=for-the-badge&logo=autohotkey&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cost%20Reduction-45%25-2196F3?style=for-the-badge&logo=trending-up&logoColor=white"/>
-<img src="https://img.shields.io/badge/Uptime%20SLA-99.99%25-9C27B0?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 
----
+### Cloud and DevOps
 
-## 🚀 Technology Stack & Skills
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 
-### **AI & Machine Learning**
-<div align="left">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</div>
+### Databases
 
-### **Automation & Integration**
-<div align="left">
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make-6366F1?style=for-the-badge&logo=integromat&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</div>
-
-### **Full-Stack Development**
-<div align="left">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</div>
-
-### **Cloud & DevOps**
-<div align="left">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</div>
-
-### **Databases & Storage**
-<div align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 
 ---
 
-## ✅ GitHub Analytics & Open Source Impact
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifyxpro&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saifyxpro&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifyxpro&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifyxpro&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifyxpro&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
-### ✅ **Open Source Contributions**
-
-<img src="https://img.shields.io/badge/Active%20Projects-8+-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Total%20Commits-1200+-FF9800?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Issues%20Resolved-150+-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Developers%20Mentored-50+-9C27B0?style=for-the-badge&logo=user-friends&logoColor=white"/>
-
-**Key Contributions:**
-- **AI Automation Frameworks**: Open-source tools for intelligent workflow automation
-- **Developer Tools**: CLI utilities and development environment enhancements  
-- **ML Pipeline Templates**: Reusable machine learning deployment patterns
-- **Community Tutorials**: Comprehensive guides for AI integration and automation
-
----
-
-## ⭐ Featured Projects & Achievements
-
-### 🔍 **AI-Powered Business Automation Suite**
-**Tech Stack:** `n8n` `OpenAI API` `LangChain` `Node.js` `PostgreSQL` `Docker`  
-**Impact:** Automated 90% of repetitive business processes for 50+ clients  
-- Multi-agent AI system with intelligent context switching
-- Advanced n8n workflows handling 100K+ events/day
-- Self-healing automation with intelligent error recovery
-- Real-time analytics dashboard with business insights
-
-### 🛒 **Enterprise E-Commerce Platform**
-**Tech Stack:** `React` `Next.js` `Node.js` `PostgreSQL` `AWS` `Kubernetes`  
-**Impact:** Processing 75K+ daily transactions with 99.99% uptime  
-- Microservices architecture with intelligent auto-scaling
-- Real-time inventory management with ML-powered predictions
-- Advanced payment gateway integrations and fraud detection
-- AI-powered recommendation engine with personalization
-
-### 📈 **Multi-Cloud Infrastructure Orchestration**
-**Tech Stack:** `Terraform` `Kubernetes` `AWS` `GCP` `Prometheus` `Grafana`  
-**Impact:** Reduced infrastructure costs by 45% with zero-downtime deployments  
-- Infrastructure as Code across multiple cloud providers
-- Automated disaster recovery and intelligent failover systems
-- Comprehensive monitoring with predictive alerting
-- Self-scaling infrastructure based on ML workload predictions
-
-### 📄 **Real-Time Collaboration Platform**
-**Tech Stack:** `React` `Socket.io` `Redis` `MongoDB` `Docker Swarm`  
-**Impact:** Supporting 25K+ concurrent users with sub-100ms latency  
-- Real-time document collaboration with conflict resolution
-- Integrated video conferencing and screen sharing
-- AI-powered content suggestions and smart formatting
-- Advanced permission management and security controls
-
----
-
-## ⭐ Professional Services & Expertise
-
-<div align="center">
-
-| **Service Area** | **Expertise** | **Value Proposition** |
-|------------------|---------------|----------------------|
-| **🤖 AI Automation** | n8n workflows, AI agents, process automation | Save 80%+ manual work, 24/7 intelligent processing |
-| **💻 Full-Stack Development** | Modern web apps, APIs, scalable architecture | Production-ready solutions with 99.9% uptime |
-| **☁️ Cloud & DevOps** | AWS/GCP, Kubernetes, CI/CD, monitoring | Reduce costs 40%, improve deployment speed 10x |
-| **⚙️ System Architecture** | Microservices, performance optimization, security | Handle 10x traffic, enterprise-grade security |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifyxpro&theme=react&hide_border=true&background=0D1117" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🏆 Recent Achievements & Professional Impact
+## Featured Work
+
+### AI-Powered Business Automation Suite
+
+**Stack:** `n8n` `OpenAI API` `LangChain` `Node.js` `PostgreSQL` `Docker`
+
+* Multi-agent system with reliable tool use and context routing
+* High-throughput workflows handling large event volumes (100K+ per day)
+* Self-healing execution with error classification, retries, and fallbacks
+* Analytics layer for operational insight and SLA tracking
+
+### Enterprise E-Commerce Platform
+
+**Stack:** `React` `Next.js` `Node.js` `PostgreSQL` `AWS` `Kubernetes`
+
+* Microservices architecture with auto-scaling and safe deployments
+* Inventory forecasting and recommendation components
+* Secure payments, fraud mitigation, and observability-first design
+
+### Multi-Cloud Infrastructure Orchestration
+
+**Stack:** `Terraform` `Kubernetes` `AWS` `GCP` `Prometheus` `Grafana`
+
+* Infrastructure-as-Code across providers with repeatable environments
+* Disaster recovery automation and controlled failover strategies
+* Monitoring, alerting, and cost optimization workflows
+
+### Real-Time Collaboration Platform
+
+**Stack:** `React` `Socket.io` `Redis` `MongoDB` `Docker`
+
+* Real-time sync with conflict management and low-latency messaging
+* Permissions, auditing, and scalable session handling
+* AI-assisted content improvements and formatting helpers
+
+---
+
+## Services
 
 <div align="center">
 
-**Professional Impact**  
-<img src="https://img.shields.io/badge/30%2B-Production%20Applications-4CAF50?style=for-the-badge&logo=rocket&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zero-Security%20Incidents-FF5722?style=for-the-badge&logo=shield&logoColor=white"/>
-<img src="https://img.shields.io/badge/95%25-Performance%20Improvement-2196F3?style=for-the-badge&logo=trending-up&logoColor=white"/>
-<img src="https://img.shields.io/badge/50%2B-AI%20Workflows-9C27B0?style=for-the-badge&logo=automation&logoColor=white"/>
-
-**Technical Milestones**  
-<img src="https://img.shields.io/badge/99.99%25-Uptime%20SLA-00C851?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/10x-Deployment%20Speed-FF9800?style=for-the-badge&logo=deploy&logoColor=white"/>
-<img src="https://img.shields.io/badge/45%25-Cost%20Reduction-795548?style=for-the-badge&logo=savings&logoColor=white"/>
-<img src="https://img.shields.io/badge/98%25-AI%20Accuracy-E91E63?style=for-the-badge&logo=target&logoColor=white"/>
+| Service Area     | Expertise                              | Outcome                                          |
+| ---------------- | -------------------------------------- | ------------------------------------------------ |
+| AI Engineering   | agents, RAG, evaluation, observability | reliable AI features that ship and stay stable   |
+| Automation       | n8n, integrations, event pipelines     | major reduction in manual operations             |
+| Full-Stack       | web apps, APIs, architecture           | production-ready delivery with performance focus |
+| Cloud and DevOps | AWS, Kubernetes, CI/CD, monitoring     | faster deploys, safer operations, lower cost     |
 
 </div>
 
 ---
 
-## 🔬 2025 AI Learning Journey & Innovation Focus
+## Current Focus
 
-### **✅ Current Deep Learning Focus**
-- **Agentic AI Mastery**: Building autonomous agents with LangGraph, CrewAI, and AutoGen
-- **Advanced ML Engineering**: Deep learning, neural networks, and transformer architectures
-- **Multi-Agent Systems**: Coordinating intelligent agent ecosystems and swarm intelligence
-- **AI Research & Development**: Contributing to cutting-edge AI methodologies
-- **MLOps Excellence**: Production-grade machine learning pipelines and monitoring
-- **Responsible AI**: Ethics, safety, and bias mitigation in AI systems
-
-### **📚 Active Learning & Development**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Engineering-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-Frameworks-00C851?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20AI-Solutions-007ACC?style=for-the-badge&logo=aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Research-Contributions-8B5CF6?style=for-the-badge&logo=researchgate&logoColor=white"/>
+* Agentic AI systems (LangGraph, CrewAI, AutoGen)
+* LLM evaluation, monitoring, and quality gates in production
+* MLOps practices for continuous delivery and governance
+* Responsible AI: safety, privacy, and bias mitigation
 
 ---
 
-## 📖 Open Source & Community Impact
+## Open Source
 
-**Community Statistics:**
-- **🔄 Open Source Projects**: 8+ active projects with regular updates
-- **✏️ Total Commits**: 1,200+ across personal and collaborative repositories  
-- **❓ Issues Resolved**: 150+ helping fellow developers solve complex problems
-- **👨‍🏫 Developers Mentored**: 50+ junior developers guided in their learning journey
-
-**✅ Active Contributions:**
-- **Agentic AI tutorials** and comprehensive implementation guides
-- **Machine Learning pipelines** and MLOps best practices documentation  
-- **Multi-agent system** design patterns and scalable frameworks
-- **AI automation workflows** and intelligent process optimization solutions
-- **Open-source AI tools** and community-driven development projects
+* AI automation templates and agent patterns
+* Developer tooling and CI/CD enhancements
+* Deployment-ready ML and LLM pipeline blueprints
+* Tutorials and guides for practical AI engineering
 
 ---
 
-## 📧 Let's Build Something Revolutionary Together
+## Contact
+
+If you want to collaborate on AI engineering, automation, or scalable systems, reach out.
 
 <div align="center">
 
-### **⭐ Ready to Transform Your Business with AI?**
+<a href="https://calendly.com/saifyxpro"><img src="https://img.shields.io/badge/Schedule%20Call-4CAF50?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule call" /></a> <a href="mailto:hello@saify.me"><img src="https://img.shields.io/badge/Quick%20Message-FF6B35?style=for-the-badge&logo=telegram&logoColor=white" alt="Quick message" /></a>
 
-Whether you need **intelligent AI automation**, **scalable web applications**, **cloud infrastructure optimization**, or **strategic technical leadership**, I'm here to turn your innovative vision into reality.
-
-**✅ Currently Available For:**
-- **Full-time opportunities** with forward-thinking, innovative companies
-- **High-impact contract projects** (6+ months preferred for meaningful impact)
-- **AI automation consulting** and end-to-end implementation  
-- **Technical architecture** design and strategic planning sessions
-- **Team mentoring** and comprehensive knowledge transfer programs
-
-### **🚀 Let's Connect & Build Something Amazing**
-
-I'm always excited to discuss cutting-edge projects, share technical insights, or explore meaningful collaboration opportunities. If you're building something that truly matters, let's have a conversation!
-
-[![Schedule a Call](https://img.shields.io/badge/Schedule%20Call-4CAF50?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/saifyxpro)
-[![Send Message](https://img.shields.io/badge/Quick%20Message-FF6B35?style=for-the-badge&logo=telegram&logoColor=white)](mailto:hello@saify.me)
+</div>
 
 ---
 
-### **📅 *"The future belongs to those who combine human creativity with artificial intelligence"***
-
-**Ready to automate the impossible and scale the unscalable? Let's create something extraordinary together! 🌟**
+<div align="center">
+  <sub>The future belongs to teams that combine human creativity with reliable artificial intelligence.</sub>
+</div>
