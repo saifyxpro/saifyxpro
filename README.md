@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/AI%2FML%20Engineer-1%2B%20Years-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Full%20Stack-4%2B%20Years-007ACC?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Full%20Stack-5%2B%20Years-007ACC?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 
 <br/>
@@ -27,97 +27,128 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-I'm an **AI/ML Engineer** with 1+ years of hands-on experience in applied machine learning, backed by 4+ years of building scalable full-stack systems.
+I'm an **AI/ML Engineer** with 1+ years of hands-on experience in applied machine learning, backed by 5+ years of building scalable full-stack systems.
 
-I work across NLP, computer vision, generative models, and classical ML, focusing on building practical AI solutions that integrate cleanly into production environments.
+I work across **NLP, computer vision, generative models, and classical ML**, focusing on building practical AI solutions that integrate cleanly into production environments.
 
 My background in full-stack development helps me bridge the gap between model development and real-world deployment.
 
-### What I Work With
+### 🔧 What I Work With
 
 **Machine Learning & AI**
-- LLM-based applications and prompt engineering
-- Image generation (Stable Diffusion workflows)
-- Computer vision and NLP tasks
-- Classical ML for prediction and classification
-- Model training, evaluation, and fine-tuning
+- 🤖 LLM-based applications and prompt engineering
+- 🎨 Image generation (Stable Diffusion workflows)
+- 👁️ Computer vision and NLP tasks
+- 📊 Classical ML for prediction and classification
+- 🎯 Model training, evaluation, and fine-tuning
 
 **Development & Deployment**
-- Python, PyTorch, TensorFlow
-- Hugging Face ecosystem, OpenAI APIs
-- Backend integration and API development
-- Cloud deployment and DevOps practices
-- Full-stack application development
+- 🐍 Python, PyTorch, TensorFlow
+- 🤗 Hugging Face ecosystem, OpenAI APIs
+- 🔌 Backend integration and API development
+- ☁️ Cloud deployment and DevOps practices
+- 🌐 Full-stack application development
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### AI & Machine Learning
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### Development & Tools
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
+
+### [HeadlessX](https://github.com/saifyxpro/HeadlessX) ⭐ 1.5k+ Stars
+**Autonomous Browser Automation Platform**
+- Self-hosted headless browser automation with 0% detection rates
+- Advanced anti-detection, fingerprinting control, and behavioral simulation
+- Built with Node.js, Playwright, and AI-powered decision-making
+
+### [Resumind AI](https://github.com/saifyxpro/resumind-ai)
+**AI-Powered Resume Analyzer**
+- Privacy-first resume analysis platform using Next.js 16
+- OpenAI GPT-4 integration for ATS compatibility scoring
+- Skill gap analysis, grammar checking, and job description matching
+
+### [X Scraper AI](https://github.com/saifyxpro/x-scraper-ai)
+**AI-Powered Social Media Scraper**
+- Intelligent Twitter/X.com data extraction and analytics
+- Clean data processing with AI integration
+- Engagement metrics and profile analytics
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saifyxpro&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifyxpro&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifyxpro&theme=react&hide_border=true&background=0D1117" />
+![](https://github-readme-stats.vercel.app/api?username=saifyxpro&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats-eight.vercel.app/?user=saifyxpro&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saifyxpro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 I'm actively seeking opportunities as an **AI/ML Engineer** where I can:
 
-- Build and deploy production-ready AI systems
-- Work with LLMs, computer vision, and generative models
-- Expand my experience across different model architectures
-- Contribute to impactful AI-driven products
+- ✅ Build and deploy production-ready AI systems
+- ✅ Work with LLMs, computer vision, and generative models
+- ✅ Expand my experience across different model architectures
+- ✅ Contribute to impactful AI-driven products
+- ✅ Collaborate with international teams on challenging problems
 
 ---
 
-## Let's Connect
+## 💼 Open to Opportunities
 
 <div align="center">
 
-**Open to collaboration and full-time opportunities**
+**Looking for Full-Time AI/ML Engineering Roles**
 
-<a href="https://calendly.com/saifyxpro"><img src="https://img.shields.io/badge/Schedule%20a%20Call-4CAF50?style=for-the-badge&logo=google-calendar&logoColor=white" /></a>
-<a href="mailto:hello@saify.me"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://saify.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifyxpro)
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@saify.me)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Building practical AI solutions that work in the real world.</sub>
+
+<sub>⚡ Building practical AI solutions that work in the real world ⚡</sub>
+
+<br/>
+
+![Made with ❤️ in Pakistan](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-Pakistan-green?style=flat-square)
+
 </div>
