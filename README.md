@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;LLMs+%7C+Computer+Vision+%7C+Classical+ML;Building+Practical+AI+Solutions" alt="Typing SVG" />
 
@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%2FML%20Engineer-1%2B%20Years-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Full%20Stack-5%2B%20Years-007ACC?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AI%20Engineer-1%2B%20Years-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Full%20Stack-2%2B%20Years-007ACC?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 
 <br/>
@@ -31,20 +31,16 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-I'm an **AI/ML Engineer** with 1+ years of hands-on experience in applied machine learning, backed by 5+ years of building scalable full-stack systems.
-
-I work across **NLP, computer vision, generative models, and classical ML**, focusing on building practical AI solutions that integrate cleanly into production environments.
-
-My background in full-stack development helps me bridge the gap between model development and real-world deployment.
+I am an **AI Engineer** and **Full-Stack Developer** who started from full-stack development and moved deeply into AI to build faster and smarter products. I know how to code, but I use AI to code daily. I build practical solutions in NLP, computer vision, and generative AI with a focus on real-world results.
 
 ### 🔧 What I Work With
 
-**Machine Learning & AI**
-- 🤖 LLM-based applications and prompt engineering
-- 🎨 Image generation (Stable Diffusion workflows)
-- 👁️ Computer vision and NLP tasks
-- 📊 Classical ML for prediction and classification
-- 🎯 Model training, evaluation, and fine-tuning
+**Applied AI Engineering**
+- 🏗️ Designing and deploying scalable AI-driven systems
+- 🤖 Building robust LLM applications, RAG pipelines, and advanced prompt engineering
+- 🎨 Fine-tuning generative models (Stable Diffusion workflows)
+- 👁️ Developing applied computer vision and NLP solutions
+- 🎯 Integrating intelligent features into production environments
 
 **Development & Deployment**
 - 🐍 Python, PyTorch, TensorFlow
@@ -57,7 +53,7 @@ My background in full-stack development helps me bridge the gap between model de
 
 ## 🛠️ Tech Stack
 
-### AI & Machine Learning
+### 🧠 AI & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -66,7 +62,7 @@ My background in full-stack development helps me bridge the gap between model de
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-### Development & Tools
+### 💻 Core Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -75,7 +71,7 @@ My background in full-stack development helps me bridge the gap between model de
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases
+### 🗄️ Databases & Caching
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -91,10 +87,17 @@ My background in full-stack development helps me bridge the gap between model de
 - Advanced anti-detection, fingerprinting control, and behavioral simulation
 - Built with Node.js, Playwright, and AI-powered decision-making
 
+### ClipFlow (Close Source)
+**Fully Autonomous Short-Form Video Pipeline**
+- End-to-end automation system that transforms raw fitness videos into production-ready reels
+- Seamlessly orchestrates AI video analysis, trending music sourcing, audio engineering, and dynamic caption generation
+- Integrates Fireworks AI, LATE API, Maton API, TikTok API, and Local Scrape Catalogs
+- Features Google Drive-triggered ingestion, management dashboard, and hands-free automatic publishing to Instagram
+
 ### [Resumind AI](https://github.com/saifyxpro/resumind-ai)
 **AI-Powered Resume Analyzer**
 - Privacy-first resume analysis platform using Next.js 16
-- OpenAI GPT-4 integration for ATS compatibility scoring
+- GPT-5 Mini integration for ATS compatibility scoring
 - Skill gap analysis, grammar checking, and job description matching
 
 ### [X Scraper AI](https://github.com/saifyxpro/x-scraper-ai)
@@ -119,7 +122,7 @@ My background in full-stack development helps me bridge the gap between model de
 
 ## 🎯 Current Focus
 
-I'm actively seeking opportunities as an **AI/ML Engineer** where I can:
+I'm actively seeking opportunities as an **AI Engineer** where I can:
 
 - ✅ Build and deploy production-ready AI systems
 - ✅ Work with LLMs, computer vision, and generative models
@@ -133,7 +136,7 @@ I'm actively seeking opportunities as an **AI/ML Engineer** where I can:
 
 <div align="center">
 
-**Looking for Full-Time AI/ML Engineering Roles**
+**Connect with me or explore my work:**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://saify.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifyxpro)
